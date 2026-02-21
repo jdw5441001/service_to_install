@@ -179,8 +179,3 @@ The notebook expects a single sheet with these columns:
 - **Repeat install analysis** — Extend the model to track second and third installs, building a fuller customer lifetime value picture.
 
 ---
-
-## Author
-
-Director of Analytics & Data Science  
-Garage Door Rollup
